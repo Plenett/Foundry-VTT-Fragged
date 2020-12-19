@@ -1,0 +1,8 @@
+{"key":"sandbox.showLastRoll","value":"false","_id":"5iFlBKXh2r1mBILD"}
+{"key":"sandbox.showADV","value":"false","_id":"9q2e229OA2kNyHBQ"}
+{"key":"sandbox.showDC","value":"false","_id":"JTQexBKdq3qEoeeL"}
+{"key":"sandbox.diff","value":"\"15\"","_id":"Ny31rp7S4JOWsVlY"}
+{"key":"sandbox.showSimpleRoller","value":"false","_id":"gD7QN31g4rtXv4my"}
+{"_id":"jHzEHOQCXJTyYoNG","key":"sandbox.initKey","value":"\"order\""}
+{"key":"core.time","value":"0","_id":"koCqq6cuJG0hAzTc"}
+{"key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"nHYuZIJtL4l9bABd"}

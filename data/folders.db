@@ -1,0 +1,20 @@
+{"name":"_PROPERTIES","type":"Item","sort":null,"flags":{},"parent":"589sDZ8bacqeM07X","sorting":"a","color":"","_id":"0kHBcx7D3LEZA4AB"}
+{"name":"_TEMPLATE","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"589sDZ8bacqeM07X"}
+{"name":"Other","type":"Item","sort":100000,"flags":{},"parent":"0kHBcx7D3LEZA4AB","sorting":"a","color":"","_id":"6pxrCEVsYdfGgoid"}
+{"name":"_TABS","type":"Item","sort":null,"flags":{},"parent":"589sDZ8bacqeM07X","sorting":"a","color":"","_id":"9CSqja1ALKeCqOb0"}
+{"name":"Core","type":"Item","sort":200000,"flags":{},"parent":"PmnhHoNCtQwwiNRW","sorting":"a","color":"","_id":"AuHTCKDUm321i3DE"}
+{"name":"Personal Combat","type":"Item","sort":600000,"flags":{},"parent":"0kHBcx7D3LEZA4AB","sorting":"a","color":"","_id":"BxTFsyqxUPgOKGcl"}
+{"name":"_CONFIG","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"GSpyoYQAPnCcwuoM"}
+{"name":"Skills","type":"Item","sort":300000,"flags":{},"parent":"PmnhHoNCtQwwiNRW","sorting":"a","color":"","_id":"GTG887M1ryj8FPQ5"}
+{"name":"Informations","type":"Item","sort":800000,"flags":{},"parent":"0kHBcx7D3LEZA4AB","sorting":"a","color":"","_id":"JsllDWcmXDhyyTLI"}
+{"name":"Professional","type":"Item","sort":500000,"flags":{},"parent":"0kHBcx7D3LEZA4AB","sorting":"a","color":"","_id":"OFOKZCKFKzAgGXAy"}
+{"name":"_PANELS","type":"Item","sort":null,"flags":{},"parent":"589sDZ8bacqeM07X","sorting":"a","color":"","_id":"PmnhHoNCtQwwiNRW"}
+{"name":"Attributes","type":"Item","sort":null,"flags":{},"parent":"0kHBcx7D3LEZA4AB","sorting":"a","color":"","_id":"SNjulLyf4NpU0TrO"}
+{"_id":"ULVtmguArYPocGuj","name":"cItem","type":"Item","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":"#ff8040"}
+{"_id":"XssRXTWXbhPwDW48","name":"Defence","type":"Item","sort":null,"flags":{},"parent":"0kHBcx7D3LEZA4AB","sorting":"a","color":""}
+{"name":"_COMPENDIUM","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"ZZ5YS8V6VQt0Yrw1"}
+{"name":"_CONFIG","type":"Item","sort":900000,"flags":{},"parent":"ZZ5YS8V6VQt0Yrw1","sorting":"a","color":"","_id":"jDcuJBifEcjAnBuZ"}
+{"_id":"t9ipxye2sICQN0tN","name":"Race","type":"Item","sort":1100000,"flags":{},"parent":"ULVtmguArYPocGuj","sorting":"a","color":"#8080ff"}
+{"name":"Vehicle","type":"Item","sort":700000,"flags":{},"parent":"0kHBcx7D3LEZA4AB","sorting":"a","color":"","_id":"ufqnaRnE7EiOmvwu"}
+{"name":"Everyday","type":"Item","sort":400000,"flags":{},"parent":"0kHBcx7D3LEZA4AB","sorting":"a","color":"","_id":"xsi8FM1MDm1QOGy0"}
+{"name":"Endurance","type":"Item","sort":1200000,"flags":{},"parent":"0kHBcx7D3LEZA4AB","sorting":"a","color":"","_id":"sqiHvx0Byp3HUINj"}
